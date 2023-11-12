@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 재택PC
+Build-Jdk: 16.0.1
+Implementation-Title: mytest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.smiple.crud
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
